@@ -180,7 +180,7 @@ Target Variable:
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/credit-card-fraud-detection.git
+git clone https://github.com/vyawaha/credit-card-fraud-detection.git
 ```
 
 ---
@@ -252,6 +252,25 @@ python main.py
 ![Dataset Preview](images/dataset_preview.png)
 
 ---
+
+# 📥 Dataset
+
+Due to GitHub file size limitations, the dataset is not uploaded directly.
+
+Download dataset from:
+
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+After downloading:
+
+1. Extract the ZIP file
+2. Copy `creditcard.csv`
+3. Paste into:
+
+data/
+
+folder
+
 
 # 🚨 Fraud Distribution
 
