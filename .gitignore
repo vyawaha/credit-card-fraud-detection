@@ -4,6 +4,6 @@ __pycache__/
 *.parquet
 .ipynb_checkpoints/
 .env
-data/*.csv
 .DS_Store
+data/*.csv
 "@ | Set-Content .gitignore
